@@ -3,7 +3,7 @@ import './ItemsListContainer.css'
 const ItemsListContainer = (props) => {
     console.log(props)
   return (
-    <div className='message-greeting-container'>
+    <div className='msg-bienvenida'>
     <h2 className='message'>{props.name}</h2>
     </div>
   )

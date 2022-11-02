@@ -6,7 +6,7 @@ function App() {
   return (
    <>
    <NavBar/>
-  <ItemsListContainer name="Bienvenidos a mi tienda"/>
+  <ItemsListContainer name="Bienvenidos a GrandHotel"/>
   </>
   
   );
